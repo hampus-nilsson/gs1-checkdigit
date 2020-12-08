@@ -6,4 +6,5 @@ SSCC, GTIN-8, GTIN-12, GTIN-13, GTIN-14, GSIN
 
 ## Calculate a check digit manually
 ![](https://raw.githubusercontent.com/artlinedev/gs1-checkdigit/main/manual.png "Calculate a check digit manually")
+
 Read more about manually calculating a check digit [here.](https://www.gs1.org/services/how-calculate-check-digit-manually)
